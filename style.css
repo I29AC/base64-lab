@@ -19,9 +19,11 @@ button {
 @media (max-width: 600px) {
     textarea {
         width: 95%;
+        margin: 10px auto;
     }
     button {
-        width: 90%;
+        width: 95%;
+        padding: 20px;
         margin: 10px auto;
     }
 }
