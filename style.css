@@ -15,3 +15,13 @@ button {
     border-radius: 8px;
     border: none;
 }
+
+@media (max-width: 600px) {
+    textarea {
+        width: 95%;
+    }
+    button {
+        width: 90%;
+        margin: 10px auto;
+    }
+}
